@@ -1,5 +1,5 @@
 # ①課題名
-to do list
+To Do List
 
 ## ②課題内容（どんな作品か）
 to do を管理できるアプリ
